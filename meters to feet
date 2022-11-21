@@ -1,0 +1,4 @@
+def meter(m):
+    ft = m*3.280839895
+    print(ft)
+meter(3)
